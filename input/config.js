@@ -120,13 +120,13 @@ const width = 2048;
 // image height in pixels
 const height = 2048;
 // description for NFT in metadata file
-const description = "ASU Fintech Cactus NFT - Cact0x";
+const description = "Kaktos NFT";
 // base url in case no unique metadata file i.e IPFS
 const baseImageUri = "https://546dxcjx4t5f.usemoralis.com:2053/server";
 // id for edition to start from
 const startEditionFrom = 1;
 // amount of NFTs to generate in edition
-const editionSize = 1000;
+const editionSize = 15;
 // prefix to add to edition dna ids (to distinguish dna counts from different generation processes for the same collection)
 const editionDnaPrefix = 0;
 
@@ -144,7 +144,7 @@ let rarityWeights = [
 // for each layer, call 'addLayer' with the id and optionally the positioning and size
 // the id would be the name of the folder in your input directory, e.g. 'ball' for ./input/ball
 const layers = [
-  addLayer("Background", { x: 0, y: 0 }, { width: width, height: height }),
+  addLayer("Backgrounds", { x: 0, y: 0 }, { width: width, height: height }),
   addLayer("Cactus"),
   addLayer("Eyes"),
   addLayer("Mouth"),
@@ -153,7 +153,7 @@ const layers = [
 
 // provide any specific percentages that are required for a given layer and rarity level
 // all provided options are used based on their percentage values to decide which layer to select from
-addRarityPercentForLayer("original", "Eyes", {
+addRarityPercentForLayer("original", "Necklace", {
   super_rare: 0,
   rare: 0,
   original: 100,
