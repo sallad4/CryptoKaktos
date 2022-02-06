@@ -14,4 +14,4 @@ The Kaktos story...once upon a time...
 
 ## How to mint Kaktos
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674199171?h=f3bb3dc370&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CryptoKaktosVideo.webm"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![How To Mint Kaktos Video Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1644178296/video_to_markdown/images/vimeo--674199171-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://vimeo.com/674199171 "How To Mint Kaktos Video Demo")
