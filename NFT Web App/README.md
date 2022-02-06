@@ -80,7 +80,7 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 ```json
 {
   "short_name": "KAKT",
-  "name": "Crypto"
+  "name": "Crypto Kaktos"
 }
 ```
 
