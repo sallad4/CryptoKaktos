@@ -14,5 +14,4 @@ The Kaktos story...once upon a time...
 
 ## How to mint Kaktos
 
-[![How to mint a Kaktos NFT](https://user-images.githubusercontent.com/29550860/152876163-a2ab691b-b67e-4df4-be47-4d6397028993.png)](https://youtu.be/pRbArBgZrMg "KaktosDemo")
-
+[![How to mint a Kaktos NFT](https://user-images.githubusercontent.com/29550860/152877220-7264623f-c352-4c60-92c3-29de7a8cb839.png)](https://youtu.be/pRbArBgZrMg "KaktosDemo")
