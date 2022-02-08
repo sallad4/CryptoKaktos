@@ -5,6 +5,8 @@
 [HashLips Art Engine Readme](https://github.com/HashLips/hashlips_art_engine#readme)
 <br>
 [Web App Readme](https://github.com/sallad4/CryptoKaktos/blob/main/NFT%20Web%20App/README.md)
+<br>
+[Smart Contract Readme](https://github.com/HashLips/solidity_smart_contracts/blob/main/README.md)
 
 ## Community BUIDLing
 
