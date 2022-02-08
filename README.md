@@ -2,9 +2,9 @@
 
 ## About
 
-The Kaktos story...once upon a time...
-
-
+Art Generator:
+Smart contract:
+[Web App Readme](https://github.com/sallad4/CryptoKaktos/blob/main/NFT%20Web%20App/README.md)
 
 ## Community BUIDLing
 
