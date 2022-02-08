@@ -10,9 +10,11 @@ Smart contract:
 
 ## Community BUIDLing
 
-- github
-- twitter
-- discord
+[Github](https://github.com/sallad4/CryptoKaktos)
+<br>
+[Twitter](https://twitter.com/cryptokaktos)
+<br>
+[Discord](https://discord.gg/vZcxYxrz)
 
 ## How to mint Kaktos
 
