@@ -2,7 +2,7 @@
 
 ## About
 
-Art Generator:
+[HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine#readme)
 <br>
 Smart contract:
 <br>
