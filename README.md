@@ -3,9 +3,6 @@
 ## About
 
 [HashLips Art Engine Readme](https://github.com/HashLips/hashlips_art_engine#readme)
-<br>
-Smart contract:
-<br>
 [Web App Readme](https://github.com/sallad4/CryptoKaktos/blob/main/NFT%20Web%20App/README.md)
 
 ## Community BUIDLing
