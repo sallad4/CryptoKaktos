@@ -3,7 +3,9 @@
 ## About
 
 Art Generator:
+<br>
 Smart contract:
+<br>
 [Web App Readme](https://github.com/sallad4/CryptoKaktos/blob/main/NFT%20Web%20App/README.md)
 
 ## Community BUIDLing
